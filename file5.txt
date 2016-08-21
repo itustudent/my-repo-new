@@ -1,1 +1,1 @@
-This is the 5th file in master, trying to create a conflict
+This is the 5th file under feature1 branch
